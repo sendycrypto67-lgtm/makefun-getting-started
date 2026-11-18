@@ -6,9 +6,9 @@
 
 New to make.fun? This page walks you from zero to your first submitted entry, and then to a payout if your work places. No prior experience with the platform is assumed.
 
-> **Start here with my invite:** [https://make.fun/r/KJBL-TQWW](https://make.fun/r/KJBL-TQWW)
+> **Start here with my invite:** [https://make.fun/r/y8skhesk](https://make.fun/r/y8skhesk)
 >
-> My referral code is `KJBL-TQWW`. Opening that link before you create your account connects your signup to it.
+> My referral code is `y8skhesk`. Opening that link before you create your account connects your signup to it.
 
 ## Contents
 
@@ -82,7 +82,7 @@ Practical consequences for you:
 
 ## Step 1: Make your account
 
-1. Open my invite link, [https://make.fun/r/KJBL-TQWW](https://make.fun/r/KJBL-TQWW), and choose **Sign in** at the top right.
+1. Open my invite link, [https://make.fun/r/y8skhesk](https://make.fun/r/y8skhesk), and choose **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in costs nothing, and signing in with a wallet sends no transaction.
 3. Open your profile through the avatar at the top right and fill it in: a username, a picture, and a short bio.
 4. If you signed in without GitHub, link your GitHub account from your profile, and link a Solana wallet too. Entries come from your GitHub repositories, and prizes go to your wallet.
@@ -186,7 +186,7 @@ Every account gets a referral link of the form `https://make.fun/r/<code>`, and 
 
 Each referral reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count. The referral reward cap and budget do not limit a contest score: a verified signup counts for this bounty even when the referrer has already taken as many signup rewards as the program pays, or the reward budget is spent.
 
-If this guide helped you, signing up through [my link](https://make.fun/r/KJBL-TQWW) with code `KJBL-TQWW` is a kind way to say thanks, and it is exactly how entries in this bounty are scored.
+If this guide helped you, signing up through [my link](https://make.fun/r/y8skhesk) with code `y8skhesk` is a kind way to say thanks, and it is exactly how entries in this bounty are scored.
 
 ## Sharing this guide
 
@@ -240,4 +240,4 @@ A team enters under one account and splits any prize itself. One account per per
 
 ---
 
-*Written for the make.fun community. Sign up with my referral link: [https://make.fun/r/KJBL-TQWW](https://make.fun/r/KJBL-TQWW) · code `KJBL-TQWW`*
+*Written for the make.fun community. Sign up with my referral link: [https://make.fun/r/y8skhesk](https://make.fun/r/y8skhesk) · code `y8skhesk`*
